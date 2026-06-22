@@ -29,9 +29,13 @@ const tasos = {
   currentlyLearning: [
     "Advanced React",
     "System Design",
-    "Cloud Technologies"
+    "AI Technologies",
+    "Cyber-Securitry"
   ],
-  motto: "Build it simple. Make it beautiful."
+languages: [
+"Greek",
+"English"
+]
 }
 ```
 
