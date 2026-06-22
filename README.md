@@ -2,7 +2,7 @@
 
 # Hey, I'm Tasos 👋
 
-### Front-End Developer • UI/UX Enthusiast • Problem Solver
+### Front-End Developer • UI/UX Enthusiast • 
 
 <p>
 Building beautiful, performant, and user-focused digital experiences.
@@ -101,27 +101,15 @@ Contributing, learning, and building alongside the developer community.
 
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tasosanas2002&theme=algolia&no-frame=true&column=4" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-58A6FF?style=for-the-badge)](https://www.anastasiosanastasiadis.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin)](in/anastasiosanas)
 
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:tasosanas2002@gmail.com)
 
 </div>
 
