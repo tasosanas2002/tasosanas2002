@@ -121,8 +121,6 @@ Contributing, learning, and building alongside the developer community.
 
 <div align="center">
 
-> "Great software is where engineering meets design."
-
 <img src="https://komarev.com/ghpvc/?username=tasosanas2002&label=Profile+Views&color=58A6FF&style=flat" />
 
 </div>
