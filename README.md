@@ -77,6 +77,14 @@ const tasos = {
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tasosanas2002&theme=github-compact" />
+
+</div>
+
 ## 🌟 Featured Projects
 
 ### 🎨 Portfolio Website
@@ -92,14 +100,6 @@ Responsive and scalable applications built with modern technologies.
 Contributing, learning, and building alongside the developer community.
 
 ---
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tasosanas2002&theme=github-compact" />
-
-</div>
 
 ## 🌐 Connect With Me
 
