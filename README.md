@@ -5,7 +5,7 @@
 ### Front-End Developer • UI/UX Enthusiast • 
 
 <p>
-Building beautiful, performant, and user-focused digital experiences.
+Building with Frontend Technologies!
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+%26+TypeScript+Developer;Always+Learning+Something+New" />
