@@ -79,32 +79,6 @@ languages: [
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tasosanas2002&theme=github-compact" />
-
-</div>
-
-## 🌟 Featured Projects
-
-### 🎨 Portfolio Website
-
-Personal portfolio showcasing projects, skills, and experience.
-
-### ⚡ Modern Web Applications
-
-Responsive and scalable applications built with modern technologies.
-
-### 🚀 Open Source
-
-Contributing, learning, and building alongside the developer community.
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
