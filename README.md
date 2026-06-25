@@ -79,6 +79,18 @@ languages: [
 
 </div>
 
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tasosanas2002&theme=github-compact" />
+
+</div>
+
+
+
 ## 🌐 Connect With Me
 
 <div align="center">
