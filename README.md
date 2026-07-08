@@ -2,7 +2,7 @@
 
 # Hey, I'm Tasos 👋
 
-### Front-End Developer • UI/UX Enthusiast • 
+
 
 <p>
 Building with Frontend Technologies!
