@@ -30,7 +30,7 @@ const tasos = {
     "Advanced React",
     "System Design",
     "AI Technologies",
-    "Cyber-Securitry"
+    "Python"
   ],
 languages: [
 "Greek",
