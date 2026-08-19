@@ -97,7 +97,7 @@ languages: [
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-58A6FF?style=for-the-badge)](https://www.anastasiosanastasiadis.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin)](in/anastasiosanas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anastasiosanas/)
 
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:tasosanas2002@gmail.com)
 
